@@ -1,27 +1,26 @@
+# Rock Paper Scissors
 
-# Rock Paper Scissors 🎮
-
-A simple **Java console-based Rock-Paper-Scissors game** where you play against the computer.  
-The computer randomly selects its move, and you choose yours. The winner is decided based on the classic rules of the game.
+A simple Java console-based Rock-Paper-Scissors game where the user plays against the computer.  
+The computer randomly selects its move, and the user chooses theirs. The winner is decided based on the standard rules of the game.
 
 ---
 
-## 📌 Features
+## Features
 - Play against the computer with randomized moves.
-- Input validation (only accepts `Rock`, `Paper`, or `Scissors`).
-- Handles invalid inputs gracefully.
+- Input validation to ensure only valid moves are accepted.
+- Handles invalid inputs gracefully with clear error messages.
 - Option to replay multiple rounds.
-- Clear console messages for user-friendly interaction.
+- Console-based interaction with clear instructions.
 
 ---
 
-## 🛠️ Technologies Used
-- **Java** (Core Java, OOP concepts, Exception Handling)
-- **VS Code** (Development Environment)
+## Technologies Used
+- Java (Core Java, OOP concepts, Exception Handling)
+- VS Code (Development Environment)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/RockPaperScissors.git
@@ -41,15 +40,15 @@ The computer randomly selects its move, and you choose yours. The winner is deci
 
 ---
 
-## 🎯 Game Rules
-- **Rock vs Scissors → Rock wins**
-- **Paper vs Rock → Paper wins**
-- **Scissors vs Paper → Scissors wins**
-- Same moves → It's a tie!
+## Game Rules
+- Rock vs Scissors → Rock wins
+- Paper vs Rock → Paper wins
+- Scissors vs Paper → Scissors wins
+- Same moves → It is a tie
 
 ---
 
-## 📷 Example Output
+## Example Output
 ```
 Computer has chosen its move.
 
@@ -69,15 +68,15 @@ Type 'yes' or 'no'
 
 ---
 
-## 📈 Future Improvements
-- Add a **scoreboard** to track wins/losses.
-- Support for **multiple players**.
-- GUI version using **Java Swing/JavaFX**.
+## Future Improvements
+- Add a scoreboard to track wins and losses.
+- Support for multiple players.
+- Graphical User Interface (GUI) version using Java Swing or JavaFX.
 
 ---
 
-## 👩‍💻 Author
-- **Sowmathi**  
+## Author
+**Sowmathi**  
 B.Sc. Computer Science (2nd Year)  
 
 
